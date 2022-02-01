@@ -155,7 +155,7 @@
                             <div class="mainNav__dropdown">
                                 <div class="dropdownInner">
                                     <div class="dropdownGroup dropdownGroup--large">
-                                        <a href="{{route('jobs.nurse')}}">
+                                        <a href="{{route('home')}}">
                                             <img src="https://www.homage.com.my/wp-content/themes/homage/img/nav-nurse.svg" alt="Nurse">
                                             <span class="menuItemContent">
                                                 <span class="menuItemName">Nurse</span>
@@ -192,7 +192,7 @@
                           <div class="mainNav__dropdown">
                             <div class="dropdownInner">
                                 <div class="dropdownGroup dropdownGroup--large partners">
-                                    <a href="{{route('partners')}}">
+                                    <a href="{{route('home')}}">
                                         <img src="https://www.homage.com.my/wp-content/themes/homage/img/nav-partners.svg" alt="Partners">
                                         <span class="menuItemContent">
                                             <span class="menuItemName">Partners</span>
@@ -213,7 +213,7 @@
                                               <span class="mainNav__childHeading">Chronic Conditions </span>
                                           </div>
                                           <ul class="menu">
-                                              <li><a href="{{route('health.dementia')}}">Dementia 101</a></li>
+                                              <li><a href="{{route('home')}}">Dementia 101</a></li>
                                               <li><a href="#">Stroke 101</a></li>
                                               <li><a href="#">Diabetes</a></li>
                                               <li><a href="#">Cancer</a></li>
@@ -309,7 +309,7 @@
                                             <span class="mainNav__childHeading">COVID-19</span>
                                         </div>
                                         <ul class="menu">
-                                            <li><a href="{{route('services.swab')}}">COVID-19 Swab Test (Klang Valley region)</a></li>
+                                            <li><a href="{{route('home')}}">COVID-19 Swab Test (Klang Valley region)</a></li>
                                             <li><a href="#">COVID-19 Swab Test (Penang)</a></li>
                                             <li><a href="#">COVID-19 Swab Test (Johor)</a></li>
                                             <li><a href="#">Corporate Swab Test</a></li>
