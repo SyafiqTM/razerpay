@@ -1,0 +1,254 @@
+@font-face {
+    font-family: 'homage-icons';
+    src: url('../fonts/homage-icons.eot?cbsj7k');
+    src: url('../fonts/homage-icons.eot?cbsj7k#iefix')
+            format('embedded-opentype'),
+        url('../fonts/homage-icons.ttf?cbsj7k') format('truetype'),
+        url('../fonts/homage-icons.woff?cbsj7k') format('woff'),
+        url('../fonts/homage-icons.svg?cbsj7k#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^='icon-'],
+[class*=' icon-'] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'homage-icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-about:before {
+    content: '\e925';
+}
+.icon-acute-conditions:before {
+    content: '\e926';
+}
+.icon-ambulance:before {
+    content: '\e949';
+}
+.icon-appstore:before {
+    content: '\e90c';
+}
+.icon-arrow-left:before {
+    content: '\e937';
+}
+.icon-arrow-right:before {
+    content: '\e90d';
+}
+.icon-cancer:before {
+    content: '\e915';
+}
+.icon-care-guides:before {
+    content: '\e930';
+}
+.icon-care-plans:before {
+    content: '\e941';
+}
+.icon-care-reports:before {
+    content: '\e942';
+}
+.icon-caregiving-support:before {
+    content: '\e927';
+}
+.icon-chronic-conditions:before {
+    content: '\e928';
+}
+.icon-connect:before {
+    content: '\e929';
+}
+.icon-contents:before {
+    content: '\e931';
+}
+.icon-costs-and-financing:before {
+    content: '\e92a';
+}
+.icon-dementia:before {
+    content: '\e916';
+}
+.icon-diabetes:before {
+    content: '\e918';
+}
+.icon-down-chevron:before {
+    content: '\e938';
+}
+.icon-envelope-outline:before {
+    content: '\e911';
+}
+.icon-facebook:before {
+    content: '\e912';
+}
+.icon-fun-fact:before {
+    content: '\e932';
+}
+.icon-health-facilities:before {
+    content: '\e92b';
+}
+.icon-heart-beat:before {
+    content: '\e90e';
+}
+.icon-helper:before {
+    content: '\e922';
+}
+.icon-homage:before {
+    content: '\e920';
+}
+.icon-hygiene:before {
+    content: '\e93b';
+}
+.icon-hypertension:before {
+    content: '\e917';
+}
+.icon-instagram:before {
+    content: '\e913';
+}
+.icon-left-chevron:before {
+    content: '\e923';
+}
+.icon-linkedin:before {
+    content: '\e92e';
+}
+.icon-location-based-care:before {
+    content: '\e93c';
+}
+.icon-long-term-packages:before {
+    content: '\e943';
+}
+.icon-management-fee:before {
+    content: '\e944';
+}
+.icon-medical:before {
+    content: '\e905';
+}
+.icon-medicine:before {
+    content: '\e909';
+}
+.icon-medicine-delivery:before {
+    content: '\e900';
+}
+.icon-nursing:before {
+    content: '\e906';
+}
+.icon-parkinsons:before {
+    content: '\e92f';
+}
+.icon-payment-options:before {
+    content: '\e94a';
+}
+.icon-personal-care:before {
+    content: '\e907';
+}
+.icon-perspectives:before {
+    content: '\e936';
+}
+.icon-phone-outline:before {
+    content: '\e910';
+}
+.icon-phone-solid:before {
+    content: '\e91a';
+}
+.icon-pin:before {
+    content: '\e91e';
+}
+.icon-playstore:before {
+    content: '\e91b';
+}
+.icon-points-care:before {
+    content: '\e93d';
+}
+.icon-post-discharge:before {
+    content: '\e901';
+}
+.icon-press:before {
+    content: '\e933';
+}
+.icon-professional-carers:before {
+    content: '\e945';
+}
+.icon-professionals:before {
+    content: '\e91f';
+}
+.icon-quote-close:before {
+    content: '\e935';
+}
+.icon-quote-open:before {
+    content: '\e934';
+}
+.icon-resources:before {
+    content: '\e90a';
+}
+.icon-respite-care:before {
+    content: '\e902';
+}
+.icon-right-chevron:before {
+    content: '\e924';
+}
+.icon-services-specialised-care:before {
+    content: '\e93a';
+}
+.icon-smartphone:before {
+    content: '\e940';
+}
+.icon-spec:before {
+    content: '\e92c';
+}
+.icon-specialised-care:before {
+    content: '\e90b';
+}
+.icon-speech-bubbles:before {
+    content: '\e90f';
+}
+.icon-star:before {
+    content: '\e91c';
+}
+.icon-stay-in-care:before {
+    content: '\e903';
+}
+.icon-stroke:before {
+    content: '\e919';
+}
+.icon-support:before {
+    content: '\e91d';
+}
+.icon-swab-test:before {
+    content: '\e93e';
+}
+.icon-symptoms:before {
+    content: '\e92d';
+}
+.icon-tea:before {
+    content: '\e921';
+}
+.icon-tele-consultation:before {
+    content: '\e904';
+}
+.icon-therapy:before {
+    content: '\e908';
+}
+.icon-transparent-pricing:before {
+    content: '\e946';
+}
+.icon-twitter:before {
+    content: '\e914';
+}
+.icon-up-chevron:before {
+    content: '\e939';
+}
+.icon-urgent-care:before {
+    content: '\e947';
+}
+.icon-wound-care:before {
+    content: '\e93f';
+}
+.icon-zero-commitment:before {
+    content: '\e948';
+}

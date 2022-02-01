@@ -1,0 +1,157 @@
+@media (max-width: 1192px){
+    section.services .service__menuItem:not(:last-child) {
+        margin-right: 15px;
+    }
+    section.services .card-item {
+        height: auto;
+     }
+
+    .container-fluid{
+        width: 80%;
+    }
+    .navbar .navbar-nav .mainNav__dropdown .dropdownInner .dropdownGroup--large {
+        min-width: 14.25rem;
+        width: 13rem;
+    }
+}
+@media (max-width: 992px ){
+    .main {
+        padding-top: 3rem;
+    }
+    .logo-image{margin-left: 5rem;
+        height: 35.406px;
+        width: 134px;
+    }
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        flex-wrap: wrap !important;
+        width: 100% !important;
+    }
+    .navbar-expand-lg .lower-navbar {
+        flex-direction: row;
+        flex-wrap: wrap !important;
+        width: 100% !important;
+    }
+    .navbar .navbar-nav .mainNav__dropdown {
+        display: none;
+        position: static;
+        top: 0;
+        left: 0;
+        padding: 0 3rem;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        box-shadow: none;
+    }
+    .navbar .navbar-nav .nav-item#navbarDropdown1:hover .mainNav__dropdown {
+        margin-left: 2rem;
+      }
+    section.features {
+        padding: 1.5rem 0 1rem 0;
+    }
+    section.first-section h1.heading {
+        font-size: 1.4rem;
+        margin-top: 1rem;
+    }
+    section.first-section p.subheading {
+        font-size: 1rem;
+    }
+    section.first-section .blobs{
+        max-width: 20rem !important;
+        transform: translate(112px,12%);
+    }
+    section.first-section img.img-family {
+        position: relative !important;
+        max-width: 440px;
+        margin-right: 0;
+    }
+    section.first-section .info-container{
+        margin-bottom: 1.4rem !important;
+        text-align: center;
+    }
+    section.first-section .curves{
+        display: none;
+    }
+    section.first-section div.appButtons {
+        display: block !important;
+    }
+    section.features .featureItem {
+        margin-bottom: 1.5rem;
+    }
+    section.features .featureItem .featureIcon {
+        flex: 0 !important;
+    }
+    section.services {
+        padding: 0 0 2rem 0;
+        padding-bottom: 10rem !important;
+    }
+    section.services .services__menu{
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    section.services .services__heading{
+        flex: 0 0 100%;
+        margin-bottom: 1.4rem;;
+    }
+    section.services .services_container{
+        flex-direction: column;
+    }
+    section.chronicConditions .chronicConditions__items {
+        margin-bottom: 3rem;
+    }
+    section.chronicConditions .chronicConditions__item {
+        margin-bottom: 2rem;
+    }
+}
+@media (max-width: 767px ){
+    section.first-section img.img-family {
+        position: relative !important;
+
+    }
+    section.services .service__menuItem{
+        width: 45%;
+        margin-bottom: 2rem;
+     }
+    section.first-section .blobs{
+        transform: translate(112px,12%) !important;
+    }
+    section.services .tab-content .card {
+        margin-top: 2em;
+    }
+    section.services .tab-content .services__imageSlider__container {
+        transform: translate(-20%, -50px);
+        display: flex;
+        justify-content: end;
+        position: absolute;
+    }
+    section.services .tab-content .services__imageSlider__container img{
+        max-width: 110px;
+        /* transform: translate(-1rem, -31rem); */
+        position: relative;
+    }
+    section.whyFamiliesUse .whyFamiliesUse__inner{
+        border-bottom-left-radius: 3.5rem;
+        border-bottom-right-radius: 3.5rem;
+    }
+    section.chronicConditions .container-lg{
+        padding: 2.5rem!important;
+    }
+}
+@media (max-width: 1200px){
+    section.first-section .blobs{
+        /* max-width: 28rem !important; */
+        transform: translate(56%,33%);
+    }
+}
+
+@media (min-width: 768px){}
+@media (min-width: 992px){
+    /* .navbar .navbar-nav .mainNav__dropdown {
+        display: flex;
+        flex-direction: column;
+    } */
+
+}
